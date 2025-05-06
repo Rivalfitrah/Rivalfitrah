@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 My Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,tailwind&theme=light)](https://skillicons.dev);
+
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,tailwind&theme=light)](https://skillicons.dev)
 
 
