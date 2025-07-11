@@ -46,7 +46,7 @@
 ### My Github Stats
 <div align=center>
 
-![Rival's GitHub stats](https://github-readme-stats.vercel.app/api?username=rivalfitrah&show_icons=true&theme=radical)
+![Rival's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rivalfitrah&count_private=true&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivalfitrah&layout=compact)
 
