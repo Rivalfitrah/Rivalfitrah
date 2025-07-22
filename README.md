@@ -16,8 +16,8 @@
 **Hi, I'm Rival!**  
 <!-- An aspiring web developer currently learning and growing in the world of frontend development. -->
 
-- 🎓 I'm currently learning: `React`, and `Tailwind CSS`
-- 🎯 My main focus: `web development` `machine learning & AI`
+- 🎓 I'm currently learning: `express js`, and `typescript`
+- 🎯 My main focus: `web development, mobile development, machine learning & AI`
 - 🌱 I'm also exploring: UI/UX design and version control with Git & GitHub
 - 🛠️ Tools I'm using: VS Code,
 - 📚 Always open to learning new technologies and improving my skills
