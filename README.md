@@ -21,7 +21,7 @@
 - 🌱 I'm also exploring: UI/UX design and version control with Git & GitHub
 - 🛠️ Tools I'm using: VS Code,
 - 📚 Always open to learning new technologies and improving my skills
-<!-- - 📫 How to reach me: [LinkedIn](https://your-linkedin.com) | [Email](mailto:your@email.com) -->
+<!-- - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/rivalfitrah) | [Email](mailto:your@email.com) -->
 
 <!-- > “The expert in anything was once a beginner.” – *Helen Hayes* -->
 
