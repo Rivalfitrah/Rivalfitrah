@@ -14,7 +14,7 @@
 ### 👋 About Me
 
 **Hi, I'm Rival!**  
-<!-- An aspiring web developer currently learning and growing in the world of frontend development. -->
+<!-- An aspiring web developer currently learning and growing in the world of fullstack developer and mobile developer . -->
 
 - 🎓 I'm currently learning: `express js`, and `typescript`
 - 🎯 My main focus: `web development, mobile development, machine learning & AI`
