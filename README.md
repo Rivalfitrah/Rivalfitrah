@@ -2,65 +2,80 @@
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=198&text=Hi%20there%20👋%20Nice%20to%20meet%20you&reversal=false&textBg=false&fontSize=50&fontColor=4E71FF">
 </div>
 
-
 <div align=center>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+profile+" alt="Typing SVG" /></img>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-### 👋 About Me
+# 👋 Hello, I'm Rival
 
-**Hi, I'm Rival!**  
-<!-- An aspiring web developer currently learning and growing in the world of fullstack developer and mobile developer . -->
+## 💬 Summary
+> I'm an Applied Bachelor's student in Software Engineering Technology at IPB University who enjoys building web applications and exploring artificial intelligence. I have experience working on freelance, agency, and academic projects, with a strong interest in creating user-focused digital solutions. I'm always learning new technologies and enjoy collaborating with others to solve real-world problems.
 
-- 🎓 I'm currently learning: `express js`, and `typescript`
-- 🎯 My main focus: `web development, mobile development, machine learning & AI`
-- 🌱 I'm also exploring: UI/UX design and version control with Git & GitHub
-- 🛠️ Tools I'm using: VS Code,
-- 📚 Always open to learning new technologies and improving my skills
-<!-- - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/rivalfitrah) | [Email](mailto:your@email.com) -->
+---
 
-<!-- > “The expert in anything was once a beginner.” – *Helen Hayes* -->
+## 🌱 I'm Learning
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+Currently learning and improving my skills in: Flutter and Linux Architecture
 
-### My Skills: 
-<div>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1Ee" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div>
+
+## 📫 Connect With Me
+
+<!-- LinkedIn -->
+
+<!-- Portfolio -->
+<!-- Email -->
 
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-### My Github Stats
-<div align=center>
+## 🛠️ Tech Stack
 
-![Rival's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rivalfitrah&count_private=true&show_icons=true&theme=radical)
+### Frontend
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivalfitrah&layout=compact)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,tailwind,vite" />
 
+### Backend
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,fastapi" />
+
+
+### Database & Cloud
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,postman,figma," />
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+## 📈 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Rivalfitrah&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
+  <img src="https://streak-stats.demolab.com/?user=Rivalfitrah&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rivalfitrah&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rivalfitrah/rivalfitrah/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rivalfitrah/rivalfitrah/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rivalfitrah/rivalfitrah/output/github-contribution-grid-snake.svg">
 </picture>
+
+
 
 ###
 
