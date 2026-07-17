@@ -22,19 +22,11 @@
 Currently learning and improving my skills in: Flutter and Linux Architecture
 
 
-## 📫 Connect With Me
-
-<!-- LinkedIn -->
-
-<!-- Portfolio -->
-<!-- Email -->
-
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
-
-## 🛠️ Tech Stack
 
 ### Frontend
 
@@ -60,7 +52,6 @@ Currently learning and improving my skills in: Flutter and Linux Architecture
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Rivalfitrah&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
-  <img src="https://streak-stats.demolab.com/?user=Rivalfitrah&theme=dark&hide_border=true"/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rivalfitrah&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
